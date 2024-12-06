@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "392478069551",
+    "project_id": "pamobilekb",
+    "storage_bucket": "pamobilekb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392478069551:android:ac14720b6aa419757907da",
+        "android_client_info": {
+          "package_name": "pacoba.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi6DgzRO494wFKHfrrgvCKSkQrG7E2q6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392478069551:android:e7fb4e53168b55f27907da",
+        "android_client_info": {
+          "package_name": "pamobilekb.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi6DgzRO494wFKHfrrgvCKSkQrG7E2q6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
